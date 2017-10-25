@@ -19,7 +19,4 @@ Page is divided to two parts, and each parts has identical faces except one face
 3. Part3: Reuse the code from part2 for generating images for right side of page
 4. part4: Complete game 
 
-### Course2: Front-End Web UI Frameworks and Tools: Bootstrap 4
-Course Website: https://www.coursera.org/learn/bootstrap-4
-
 
