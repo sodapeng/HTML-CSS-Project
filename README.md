@@ -1,6 +1,6 @@
 ## HTML-CSS-Bootstrap projects Coursera
 
-### This repository contains projects of Course 1 of Coursera Specialization course - "Full Stack Web Development by The Hong Kong University of Science and Technology
+##### This repository contains projects of Course 1 of Coursera Specialization course - "Full Stack Web Development by The Hong Kong University of Science and Technology
 
 ### Course1:HTML, CSS and JavaScript
 Course Website: https://www.coursera.org/learn/html-css-javascript/home/welcome
